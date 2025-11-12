@@ -13,6 +13,8 @@ git clone (your key)
 
 ls -alstr
 
+pyco to add text in the file
+
 Type things in the README file and then press ctrl o to update the file locally on your system
 
 git add README.md
