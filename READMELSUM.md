@@ -1,5 +1,12 @@
 # Linux System User Manual
-## Initial Configurations
+## Initial GitHub Configurations
+* Open GitHub
+* Sign up/log in to GitHub
+* In the homepage, navigate to the repository page and create a new repository (repo)
+* Create README files by typing "README" and ending with an md
+* Create coding files in the repo
+
+## Initial Linux Configurations 
 
 git config --global user.name “Dorin Kim”
 
